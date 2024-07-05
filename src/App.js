@@ -1,5 +1,5 @@
 import './App.css'
-import { each } from 'immer/dist/internal'
+
 import BannerCardItem from './components/BannerCardItem/index'
 
 const bannerCardsList = [

@@ -3,8 +3,8 @@
 import './index.css'
 
 const BannerCardItem = props => {
-  const {bannerCardDetails} = props
-  const {headerText, description, className} = bannerCardDetails
+  const {bannercardDetails} = props
+  const {headerText, description, className} = bannercardDetails
 
   return (
     <li>
